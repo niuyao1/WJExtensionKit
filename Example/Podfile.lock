@@ -1,0 +1,16 @@
+PODS:
+  - WJExtensionKit (0.1.0)
+
+DEPENDENCIES:
+  - WJExtensionKit (from `../`)
+
+EXTERNAL SOURCES:
+  WJExtensionKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WJExtensionKit: 20e553442b78a1badfdb42521e64f21b3233bf10
+
+PODFILE CHECKSUM: 5fdaa8b55ba9be8343b786ac17da4f96087a02e9
+
+COCOAPODS: 1.11.3
