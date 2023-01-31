@@ -7,16 +7,16 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'WJExtensionKit'  # 组件名称
-  s.version          = '0.1.0'  # 版本号
-  s.summary          = 'A short description of WJExtensionKit.'  # 简单描述
+  s.name             = 'WJExtensionKit'
+  s.version          = '0.1.0'
+  s.summary          = 'A short description of WJExtensionKit.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
 #   * Try to keep it short, snappy and to the point.
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
-#  详细描述
+
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
                        DESC
